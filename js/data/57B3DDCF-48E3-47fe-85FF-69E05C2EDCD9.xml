@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1", "1", "ClinicaModels", "EARoot/EA1.htm", "31.png", "", "", "{F486112C-A71E-484f-9177-692F438F6775}", "Package");
+tocTab[tocTab.length] = new Array("2", "1", "arquitectura", "EARoot/EA2.htm", "31.png", "", "", "{9C1999E1-1D8E-414c-8707-DF3E49155842}", "Package");
+tocTab[tocTab.length] = new Array("3", "1", "Modelo de clases", "EARoot/EA3.htm", "31.png", "", "", "{C46EBA05-034D-4e38-8B34-6DCE545A489E}", "Package");
+tocTab[tocTab.length] = new Array("4", "1", "requisitos", "EARoot/EA4.htm", "31.png", "", "", "{610DB482-158A-4f1a-9F13-36F7D7BC3D01}", "Package");

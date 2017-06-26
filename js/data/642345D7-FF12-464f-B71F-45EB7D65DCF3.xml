@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("1.5.1:1", "", "modelo", "EARoot/EA1/EA5/EA1/EA62.htm", "175.png", "27", "0", "", "Logical diagram0","{F66EE687-62F1-4676-8F5F-6555B9EA696D}");
+tocTab[tocTab.length] = new Array("1.5.1:2", "", "cita_historial", "EARoot/EA1/EA5/EA1/EA64.htm", "5.png", "104", "0", "", "Class0","{1550BC38-C246-430a-91EC-111606AE2174}");
+tocTab[tocTab.length] = new Array("1.5.1:3", "", "cita_inscripcion", "EARoot/EA1/EA5/EA1/EA65.htm", "5.png", "103", "0", "", "Class0","{7A82913B-7718-4d88-BCE3-1A2EF0390842}");
+tocTab[tocTab.length] = new Array("1.5.1:4", "", "cliente", "EARoot/EA1/EA5/EA1/EA66.htm", "5.png", "301", "0", "", "Class0","{517E60E1-1107-46d8-914D-25EC19223BA4}");
+tocTab[tocTab.length] = new Array("1.5.1:5", "", "especialidad", "EARoot/EA1/EA5/EA1/EA67.htm", "5.png", "105", "0", "", "Class0","{0418D290-C514-4a50-B936-49836ED3F031}");
+tocTab[tocTab.length] = new Array("1.5.1:6", "", "«enumeration» ESTADO", "EARoot/EA1/EA5/EA1/EA68.htm", "5.png", "465", "0", "", "Class0","{887A6B16-F238-4909-A730-591931740532}");
+tocTab[tocTab.length] = new Array("1.5.1:7", "", "odontologo", "EARoot/EA1/EA5/EA1/EA69.htm", "5.png", "132", "0", "", "Class0","{14A9495D-466C-4c82-97AA-0D5713EBD3C6}");
+tocTab[tocTab.length] = new Array("1.5.1:8", "", "«enumeration» Tipo_Doc_Pago", "EARoot/EA1/EA5/EA1/EA70.htm", "5.png", "466", "0", "", "Class0","{985A7739-1DB3-4be8-A232-789DDDFF11BC}");

@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("3.4.1:1", "", "controllers", "EARoot/EA3/EA4/EA1/EA215.htm", "175.png", "141", "0", "", "Logical diagram0","{AEFF48BA-1CBF-450b-9820-F098393A9060}");
+tocTab[tocTab.length] = new Array("3.4.1:2", "", "cliente serializer", "EARoot/EA3/EA4/EA1/EA217.htm", "5.png", "492", "0", "", "Class0","{84AB1E03-59A7-4e05-802C-064622D4BC53}");
+tocTab[tocTab.length] = new Array("3.4.1:3", "", "clienteviews", "EARoot/EA3/EA4/EA1/EA218.htm", "5.png", "495", "0", "", "Class0","{E0ADC755-E942-4a1e-85F4-BB2B8D5CE6E9}");
+tocTab[tocTab.length] = new Array("3.4.1:4", "", "clienteviewtest", "EARoot/EA3/EA4/EA1/EA219.htm", "5.png", "496", "0", "", "Class0","{37B734F0-3221-4da5-8890-CC1A2AE2D77D}");
+tocTab[tocTab.length] = new Array("3.4.1:5", "", "django model", "EARoot/EA3/EA4/EA1/EA220.htm", "5.png", "494", "0", "", "Class0","{CFC25DA4-C605-4ab8-B840-F36439CAB7C6}");
+tocTab[tocTab.length] = new Array("3.4.1:6", "", "model serializer", "EARoot/EA3/EA4/EA1/EA221.htm", "5.png", "493", "0", "", "Class0","{54403B97-5093-4d5c-83E8-0033365716F1}");
+tocTab[tocTab.length] = new Array("3.4.1:7", "", "models::cliente", "EARoot/EA3/EA4/EA1/EA222.htm", "5.png", "497", "0", "", "Class0","{618B5480-4BAF-4a4a-B7DE-E79A230DAD76}");
+tocTab[tocTab.length] = new Array("3.4.1:8", "", "modelviews", "EARoot/EA3/EA4/EA1/EA223.htm", "5.png", "498", "0", "", "Class0","{E11737DB-FF87-4f1d-A38F-BB0955014B08}");

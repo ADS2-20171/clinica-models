@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("4.6:1", "", "cita_inscripcion", "EARoot/EA4/EA6/EA303.htm", "188.png", "170", "0", "", "Custom diagram0","{85BAA434-DF40-4955-9B4A-0A4A45B7B5B6}");
+tocTab[tocTab.length] = new Array("4.6:2", "", "«Functional» RF1:ingresar al sistema<br />", "EARoot/EA4/EA6/EA305.htm", "19.png", "626", "0", "", "Requirement0","{ADE1A7C0-D886-4b20-88D8-F43185D3DEB0}");
+tocTab[tocTab.length] = new Array("4.6:3", "", "«Functional» RF2:ver la cita que paciente l toca atender<br />", "EARoot/EA4/EA6/EA306.htm", "19.png", "650", "0", "", "Requirement0","{FE10BCBB-C35B-4691-856D-0065C135E06D}");
+tocTab[tocTab.length] = new Array("4.6:4", "", "«Functional» RF3:llenar el historial del cliente<br />", "EARoot/EA4/EA6/EA307.htm", "19.png", "651", "0", "", "Requirement0","{9DDF8447-03EA-46a3-A638-59EC17E15FBC}");
+tocTab[tocTab.length] = new Array("4.6:5", "", "«Functional» RF4: guardar historial", "EARoot/EA4/EA6/EA308.htm", "19.png", "652", "0", "", "Requirement0","{7D0E4A5C-FE18-4725-BABF-423614998F94}");

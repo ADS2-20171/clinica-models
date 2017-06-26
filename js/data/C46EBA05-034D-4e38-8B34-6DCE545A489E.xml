@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("3:1", "", "Modelo de clases", "EARoot/EA3/EA141.htm", "175.png", "132", "0", "", "Logical diagram0","{49412820-9BD5-46e5-BE01-53557CF51ECC}");
+tocTab[tocTab.length] = new Array("3.1", "1", "caja_ingreso", "EARoot/EA3/EA143.htm", "4.png", "", "", "{244AC391-8991-4692-AF30-AE70413C0089}", "Package");
+tocTab[tocTab.length] = new Array("3.2", "1", "cita_historial", "EARoot/EA3/EA144.htm", "4.png", "", "", "{FB002FAD-28E7-4dec-98DB-DB37B7C5AF39}", "Package");
+tocTab[tocTab.length] = new Array("3.3", "1", "cita_inscripcion", "EARoot/EA3/EA145.htm", "4.png", "", "", "{54637800-03D4-44f0-88D8-B342180DA4EE}", "Package");
+tocTab[tocTab.length] = new Array("3.4", "1", "cliente", "EARoot/EA3/EA146.htm", "4.png", "", "", "{45C12CF4-E12D-45d0-AC1E-CBBD0456D9FF}", "Package");
+tocTab[tocTab.length] = new Array("3.5", "1", "cuentausuario", "EARoot/EA3/EA147.htm", "4.png", "", "", "{2B458697-66BF-4c67-A8C8-8A26B802B3CC}", "Package");
+tocTab[tocTab.length] = new Array("3.6", "1", "especialidad", "EARoot/EA3/EA148.htm", "4.png", "", "", "{DE17383E-A6FF-4c88-BA00-C7CA27039883}", "Package");

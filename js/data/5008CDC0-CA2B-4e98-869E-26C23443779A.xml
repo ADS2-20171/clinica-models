@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("1.2.1:1", "", "modelo", "EARoot/EA1/EA2/EA1/EA31.htm", "175.png", "32", "0", "", "Logical diagram0","{8E6CD5EF-DE87-4b20-A008-24C69EB60CF3}");
+tocTab[tocTab.length] = new Array("1.2.1:2", "", "caja_ingreso", "EARoot/EA1/EA2/EA1/EA33.htm", "5.png", "115", "0", "", "Class0","{D033FA36-627C-4028-AD48-88770DC3E2E0}");
+tocTab[tocTab.length] = new Array("1.2.1:3", "", "cita_inscripcion", "EARoot/EA1/EA2/EA1/EA34.htm", "5.png", "116", "0", "", "Class0","{FBDE3524-276C-438a-98D2-72A8309A2F57}");
+tocTab[tocTab.length] = new Array("1.2.1:4", "", "cliente", "EARoot/EA1/EA2/EA1/EA35.htm", "5.png", "297", "0", "", "Class0","{7DE18057-F7D1-46ea-8CDB-4671436DD655}");
+tocTab[tocTab.length] = new Array("1.2.1:5", "", "cuentausuario", "EARoot/EA1/EA2/EA1/EA36.htm", "5.png", "114", "0", "", "Class0","{5378799C-4182-4440-8170-102E4506CD88}");
+tocTab[tocTab.length] = new Array("1.2.1:6", "", "detalleCaja", "EARoot/EA1/EA2/EA1/EA37.htm", "5.png", "299", "0", "", "Class0","{6A233714-27C6-4822-AA7B-6DAFFA3FC681}");
+tocTab[tocTab.length] = new Array("1.2.1:7", "", "«enumeration» ESTADO", "EARoot/EA1/EA2/EA1/EA38.htm", "5.png", "460", "0", "", "Class0","{5374329F-AE5F-467f-BED1-B10B4252D2C5}");
+tocTab[tocTab.length] = new Array("1.2.1:8", "", "«enumeration» TIPO_DOC_PAGO", "EARoot/EA1/EA2/EA1/EA39.htm", "5.png", "461", "0", "", "Class0","{022E045D-7A51-457d-A2A4-B743AE599872}");

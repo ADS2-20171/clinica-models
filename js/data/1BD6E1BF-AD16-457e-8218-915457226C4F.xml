@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("4.2:1", "", "cita_historial", "EARoot/EA4/EA2/EA282.htm", "188.png", "177", "0", "", "Custom diagram0","{1CDEF17C-22E5-4d7b-BCE3-F2A9DCF1AA92}");
+tocTab[tocTab.length] = new Array("4.2:2", "", "«Functional» RF1: ingresar al sistema", "EARoot/EA4/EA2/EA284.htm", "19.png", "637", "0", "", "Requirement0","{E20AB45E-AB82-4412-8079-6FF86C000EF9}");
+tocTab[tocTab.length] = new Array("4.2:3", "", "«Functional» RF2:buscar por el dni al cliente y sacar <br /> su cita<br />", "EARoot/EA4/EA2/EA285.htm", "19.png", "638", "0", "", "Requirement0","{35B2ABA6-F837-490b-B7D2-6145E782D9E5}");
+tocTab[tocTab.length] = new Array("4.2:4", "", "«Functional» RF3:guardar y enviar la cita", "EARoot/EA4/EA2/EA286.htm", "19.png", "639", "0", "", "Requirement0","{30377CEC-AB9E-4f9e-ABE0-9A439B741533}");

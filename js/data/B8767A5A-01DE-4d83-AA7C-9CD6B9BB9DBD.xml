@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("4.3:1", "", "cliente", "EARoot/EA4/EA3/EA287.htm", "188.png", "178", "0", "", "Custom diagram0","{273A4C35-1350-4017-903D-2DA20451683C}");
+tocTab[tocTab.length] = new Array("4.3:2", "", "«Functional» RF1: ingresar al sistema para realizar el registro<br />", "EARoot/EA4/EA3/EA289.htm", "19.png", "640", "0", "", "Requirement0","{F57C980E-4B94-4a02-8AC0-4A44B50600EC}");
+tocTab[tocTab.length] = new Array("4.3:3", "", "«Functional» RF2: ingresar todos los datos correctos del cliente", "EARoot/EA4/EA3/EA290.htm", "19.png", "641", "0", "", "Requirement0","{1CD44FE4-B5A0-4b4b-8953-4F1E970F5E05}");
+tocTab[tocTab.length] = new Array("4.3:4", "", "«Functional» RF3:guardar los datos ingresados en el sistema", "EARoot/EA4/EA3/EA291.htm", "19.png", "642", "0", "", "Requirement0","{17DA2076-2F66-4e0b-A5CC-A967B4D5E259}");

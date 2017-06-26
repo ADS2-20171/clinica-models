@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("4.5:1", "", "especilidad", "EARoot/EA4/EA5/EA297.htm", "188.png", "180", "0", "", "Custom diagram0","{0E37A524-36D6-4b65-A0BB-04ABAE6D2C1F}");
+tocTab[tocTab.length] = new Array("4.5:2", "", "«Functional» RF1:ingresar al sistema", "EARoot/EA4/EA5/EA299.htm", "19.png", "646", "0", "", "Requirement0","{D95F0192-AEEA-4d65-A602-2FAD6742A172}");
+tocTab[tocTab.length] = new Array("4.5:3", "", "«Functional» RF2:Registrar la nueva especilidad", "EARoot/EA4/EA5/EA300.htm", "19.png", "647", "0", "", "Requirement0","{7AB0435D-8810-4030-BBE9-C329B70655EB}");
+tocTab[tocTab.length] = new Array("4.5:4", "", "«Functional» RF3: registrar el monto de la espcilidad<br />", "EARoot/EA4/EA5/EA301.htm", "19.png", "648", "0", "", "Requirement0","{40E237FF-11FE-4c2a-9901-4140D71990C9}");
+tocTab[tocTab.length] = new Array("4.5:5", "", "«Functional» RF4: guardar los datos<br />", "EARoot/EA4/EA5/EA302.htm", "19.png", "649", "0", "", "Requirement0","{73579E94-D28F-43dc-B19B-08FBDCB16DFD}");

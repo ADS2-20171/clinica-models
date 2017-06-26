@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("4.4:1", "", "cuentausuario", "EARoot/EA4/EA4/EA292.htm", "188.png", "179", "0", "", "Custom diagram0","{03BE4209-99AF-429c-95A6-B8631B446412}");
+tocTab[tocTab.length] = new Array("4.4:2", "", "«Functional» FR1:ingresar al sistema<br />", "EARoot/EA4/EA4/EA294.htm", "19.png", "643", "0", "", "Requirement0","{AD08CAC0-39C2-407a-81DD-261A860A3D1F}");
+tocTab[tocTab.length] = new Array("4.4:3", "", "«Functional» RF2: buscar al cliete mediante su codigo y y crear su cuenta y contraseña", "EARoot/EA4/EA4/EA295.htm", "19.png", "644", "0", "", "Requirement0","{E7EEAD12-990B-42c0-96DB-7E9FD75711F6}");
+tocTab[tocTab.length] = new Array("4.4:4", "", "«Functional» RF3: guardar los datos ", "EARoot/EA4/EA4/EA296.htm", "19.png", "645", "0", "", "Requirement0","{4CA3B323-09DF-4656-BAB5-5C4A3EAAA116}");
